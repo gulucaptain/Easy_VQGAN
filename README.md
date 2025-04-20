@@ -27,7 +27,7 @@ Including three kinds of VQ-GAN models and dell_e model.
 sh checkpoint_download.sh
 ```
 
-### Original VQ-GQN inference
+### Original VQ-GAN inference
 ```bash
 CUDA_VISIBLE_DEVICES=0 python inference_stage_1.py
 ```
