@@ -1,0 +1,9 @@
+data/coco_images/000000356347.jpg
+data/coco_images/000000361180.jpg
+data/coco_images/000000403385.jpg
+data/coco_images/000000406997.jpg
+data/coco_images/000000452122.jpg
+data/coco_images/000000491464.jpg
+data/coco_images/000000517069.jpg
+data/coco_images/000000522393.jpg
+data/coco_images/000000569273.jpg
